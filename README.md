@@ -12,6 +12,7 @@ Anyone.
 
 ## How to use?
 
+ * `$ mkdir build`
  * `$ cd build`
  * `$ cmake ..`
  * `$ make`
